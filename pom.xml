@@ -5,11 +5,11 @@
 	<groupId>Opencart</groupId>
 	<artifactId>Opencart</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	
+
 	<properties>
 		<maven.compiler.release>21</maven.compiler.release>
 	</properties>
-  
+
 
 	<build>
 		<!-- To define the plugin version in your parent POM -->
@@ -42,7 +42,12 @@
 	</build>
 
 	<dependencies>
-
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.30</version>
+			<scope>provided</scope>
+		</dependency>
 		<!--
 		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
