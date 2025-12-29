@@ -1,54 +1,56 @@
-11:54:48.612 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-11:54:48.805 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
-11:54:49.568 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
-11:54:49.573 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
-11:54:51.512 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
-11:54:55.224 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-11:54:57.407 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
-12:11:46.803 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-12:11:46.998 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
-12:11:48.470 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
-12:11:48.470 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
-12:11:50.604 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
-12:12:08.021 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-12:12:09.879 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
-14:50:57.221 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-14:51:11.913 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-15:05:51.655 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-15:05:52.076 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
-15:05:53.124 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
-15:05:53.156 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
-15:05:58.380 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
-15:06:06.406 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-15:06:10.337 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
-15:23:41.216 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-15:24:00.555 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-15:58:31.485 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-15:58:31.811 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
-15:58:33.036 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
-15:58:33.052 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
-15:58:35.526 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
-15:58:40.753 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-15:58:43.869 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
-15:59:18.085 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-15:59:18.508 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
-15:59:19.293 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
-15:59:19.300 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
-15:59:21.580 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
-15:59:27.462 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-15:59:30.286 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
-16:08:39.699 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-16:08:57.323 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-16:11:30.909 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-16:11:46.642 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-16:13:32.781 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-16:13:33.114 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
-16:13:33.898 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
-16:13:33.908 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
-16:13:36.406 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
-16:13:40.688 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-16:13:43.262 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
-16:29:18.052 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
-16:29:19.069 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
-16:29:20.034 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
-16:29:20.044 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+16:29:23.191 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+16:29:31.523 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+16:29:37.046 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+16:46:17.239 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+16:46:33.556 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+17:01:09.386 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sujus\eclipse-workspace\Opencart\master.xml
+
+17:01:19.040 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+17:01:19.650 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+17:01:20.823 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+17:01:20.874 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+17:01:23.477 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+17:01:29.338 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+17:01:33.664 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+17:07:36.635 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+17:07:37.236 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+17:07:38.190 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+17:07:38.195 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+17:07:41.144 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+17:07:49.043 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+17:07:52.154 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+17:09:52.265 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+17:10:08.097 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+17:13:49.405 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+17:13:50.760 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+17:13:51.786 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+17:13:51.792 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+17:13:54.371 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+17:14:00.291 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+17:14:03.892 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+17:18:01.960 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+17:18:03.442 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+17:18:04.856 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+17:18:04.867 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+17:18:08.323 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+17:18:18.109 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+17:18:21.122 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+17:23:03.441 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+17:23:03.689 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+17:23:04.451 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+17:23:04.457 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+17:23:06.774 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+17:23:17.286 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+17:23:20.687 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+17:47:40.647 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+17:47:41.310 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my account link
+17:47:42.505 [main] INFO  com.testcases.AccountRegistrationTest - clicked on my register link
+17:47:42.509 [main] INFO  com.testcases.AccountRegistrationTest - providing customer details
+17:47:44.964 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
+17:47:49.052 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+17:47:51.483 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+17:51:16.520 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+17:51:34.202 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+17:51:44.305 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+17:56:04.286 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----

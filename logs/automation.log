@@ -1,3 +1,5 @@
-16:29:23.191 [main] INFO  com.testcases.AccountRegistrationTest - validating expected message
-16:29:31.523 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
-16:29:37.046 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+17:56:19.750 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+17:56:29.902 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
+17:58:43.347 [main] INFO  com.testcases.AccountRegistrationTest - -----Starting test case-----
+17:58:57.777 [main] INFO  com.testcases.LoginTest - ***** starting Login test case*******
+17:59:07.937 [main] INFO  com.testcases.LoginTest - ***** finish Login test case*******
